@@ -1,3 +1,12 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to the home page.
 // -----------------------------------------------------------------------------
+
+.home {
+  // background-color: aqua;
+  background-image: url('../assets/img/survey-form-background.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: screen;
+}
