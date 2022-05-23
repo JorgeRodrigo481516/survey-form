@@ -3,10 +3,15 @@
 // -----------------------------------------------------------------------------
 
 .home {
-  // background-color: aqua;
-  background-image: url('../assets/img/survey-form-background.jpeg');
+  height: 100vh;
+  background-image: linear-gradient(
+      115deg,
+      hsla(240, 46%, 42%, 0.8),
+      hsla(240, 42%, 67%, 0.7)
+    ),
+    url('../assets/img/survey-form-background.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-blend-mode: screen;
+  background-blend-mode: normal;
 }

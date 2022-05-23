@@ -1,3 +1,4 @@
+@use './variables' as *;
 // -----------------------------------------------------------------------------
 // This file contains all application-wide Sass functions.
 // -----------------------------------------------------------------------------
@@ -5,6 +6,9 @@
 @function asset($base, $type, $path) {
   @return url($base + $type + $path);
 }
+
+
+// -----------------------------------------------------------------------------
 
 @function image($path, $base: $base-url) {
   @return asset($base, 'images/', $path);
@@ -16,6 +20,47 @@
 @function font($path, $base: $base-url) {
   @return asset($base, 'fonts/', $path);
 }
+
+
+// -----------------------------------------------------------------------------
+
+@function color($colors-key) {
+  @if map-has-key($colors, $colors-key) {
+    @return map-get($colors, $colors-key);
+  }
+
+  @warn "Unknown `#{$colors-key}` in $colors map.";
+  @return null;
+}
+
+
+// -----------------------------------------------------------------------------
+
+@function breakpoint($breakpoints-key) {
+  @if map-has-key($breakpoints, $breakpoints-key) {
+    @return map-get($breakpoints, $breakpoints-key);
+  }
+
+  @warn "Unknown `#{$breakpoints-key}` in $breakpoints map.";
+  @return null;
+}
+
+
+// -----------------------------------------------------------------------------
+
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
+
+
+// -----------------------------------------------------------------------------
+
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}
+
+
+// -----------------------------------------------------------------------------
 
 
 // -----------------------------------------------------------------------------

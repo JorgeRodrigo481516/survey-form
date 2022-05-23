@@ -2,33 +2,47 @@
 // This file contains all application-wide Sass variables.
 // -----------------------------------------------------------------------------
 
+$text-font: 'Poppins' !default;
+$headings-font: 'Poppins' !default;
 
-$text-font-stack: 'Open Sans', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif !default;
+$text-font-stack: $text-font, 'Open Sans', 'Helvetica Neue Light', 'Helvetica Neue',
+  'Helvetica', 'Arial', sans-serif !default;
 
-$code-font-stack: 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Monaco', monospace !default;
-
-
-// -----------------------------------------------------------------------------
-
-$text-color: rgb(34, 34, 34) !default;
-
-$brand-color: rgb(229, 0, 80) !default;
-
-$light-grey: rgb(237, 237, 237) !default;
-
-$mid-grey: rgb(153, 153, 153) !default;
-
-$dark-grey: rgb(68, 68, 68) !default;
+$headings-font-stack: $headings-font, 'Courier New', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
+  'Monaco', monospace !default;
 
 
 // -----------------------------------------------------------------------------
 
-$max-width: 1180px !default;
+$brand-color: color('purple') !default;
+$text-color: color('white') !default;
+$headings-color: color('white') !default;
+$button-color: color('green') !default;
+
+$light-grey: hsl(0, 0%, 80%) !default;
+$mid-grey: hsl(0, 0%, 60%) !default;
+$dark-grey: color('grey') !default;
+
+$colors: (
+  'white': hsl(0, 0%, 95%),
+  'grey': hsl(210, 9%, 31%),
+  'green': hsl(143, 52%, 45%),
+  'purple': hsla(240, 46%, 42%, 0.8)
+) !default;
+
+
+// -----------------------------------------------------------------------------
+
+$max-width: 1080px !default;
 
 $breakpoints: (
-  'small': 320px,
+  'min': 395px,
+  'tiny': 480px,
+  'small': 600px,
   'medium': 768px,
   'large': 1024px,
+  'huge': 1280px,
+  'max': 1440px,
 ) !default;
 
 
