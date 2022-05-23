@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github.com/JorgeRodrigo481516/calculadora-simples/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JorgeRodrigo481516/calculadora-simples?style=social">
+  <a href="https://github.com/JorgeRodrigo481516/survey-form/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JorgeRodrigo481516/survey-form?style=social">
   </a>
-  <a href="https://github.com/JorgeRodrigo481516/calculadora-simples/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JorgeRodrigo481516/calculadora-simples">
-  </a>
-  <a href="#">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JorgeRodrigo481516/calculadora-simples?color=3F71FF">
+  <a href="https://github.com/JorgeRodrigo481516/survey-form/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JorgeRodrigo481516/survey-form">
   </a>
   <a href="#">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/JorgeRodrigo481516/calculadora-simples">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JorgeRodrigo481516/survey-form?color=3F71FF">
+  </a>
+  <a href="#">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/JorgeRodrigo481516/survey-form">
   </a>
   <a href="#">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
@@ -21,14 +21,14 @@
 
 
 <p align="center">
-  <img width="900px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" alt="Rachi website"
+  <img width="900px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" alt="Survey Form website"
 </p>
 
 	
 (Insira um gif ou um link de alguma demonstração)
 
 	
-<a href="#"><h1 id="sobre"> Webpack-Template 🔗 </h1></a>
+<a href="#"><h1 id="sobre"> Survey Form 🔗 </h1></a>
  
 (Uma breve descrição sobre o que esse projeto faz e para quem ele é)
 
@@ -36,7 +36,7 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 
 	
 <br>
-<p align="center" color="green"><strong> 🚧 <em>Webpack Template</em> 🚀 desenvolvido com sucesso  🚧 </strong></p>
+<p align="center" color="green"><strong> 🚧 <em>Survey Form</em> 🚀 em desenvolvimento  🚧 </strong></p>
 
 
 <p align="center">
@@ -61,9 +61,9 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 <br>
 <h2 id="recursos"> 🧰 Recursos </h2>
 
-🔷 <strong><em> Multiplataforma </em></strong> - PC, notebook, tablet, e smartphone.
+🔶 <strong><em> Multiplataforma </em></strong> - PC, notebook, tablet, e smartphone.
 
-🔹 <strong><em> Interatividade </em></strong> - Botões, links, e inputs.
+🔸 <strong><em> Interatividade </em></strong> - Botões, links, e inputs.
 
 🔸 <strong><em> Compatibilidade </em></strong> - Chrome, Brave, Microsoft Edge, Internet Explorer, Firefox, e outros.
 
@@ -76,17 +76,15 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 <br>
 <h2 id="tarefas"> 📑 Tarefas </h2>
 
-✔️ <strong> Estruturar o HTML do website </strong>
+⚠️ <strong> Estruturar o HTML do website </strong>
 
-✔️ <strong> Estilizar os componentes e o layout da página </strong>
+⚠️ <strong> Estilizar os componentes e o layout da página </strong>
 
-✔️ <strong> Atribuir interatividade aos componentes </strong>
+⭕ <strong> Atribuir interatividade aos componentes </strong>
 
-✔️ <strong> Adicionar responsividade </strong>
+⭕ <strong> Adicionar responsividade </strong>
 
-⚠️ <strong> Realizar aprimoramentos no design </strong>
-
-⭕ <strong> Melhorar a compatibilidade com o IE </strong>
+⭕ <strong> Realizar aprimoramentos no design </strong>
 
 💡 <strong> Construir o back-end para receber e/ou administrar dados </strong>
 
@@ -101,13 +99,13 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/JorgeRodrigo481516/survey-form
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd survey-form
 ```
 
 Instale as dependências
@@ -122,50 +120,16 @@ Inicie o servidor
   npm run start
 ```
 
-<br>
-<h3> Rodando os testes </h3>
-	
-Para rodar os testes, rode o seguinte comando
-
-```bash
-  npm run test
-```
-
-<br>
-<h3> Uso/Exemplos </h3>
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 <br>
 <h2 id="contribuicao"> :coffee: Contribuindo para o projeto </h2>
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m ":sparkles: feat: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 
-<br>
-<h2 id="faq"> ❓ FAQ </h2>
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
-<br>
-<h2 id="feedback"> 💬 Feedback </h2>
-
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
 
 <br>
 <h2 id="licenca"> 📝 Licença </h2>
