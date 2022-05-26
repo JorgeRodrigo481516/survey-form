@@ -4,6 +4,7 @@
 
 .home {
   height: 100vh;
+  padding: 50px 25px;
   background-image: linear-gradient(
       115deg,
       hsla(240, 46%, 42%, 0.8),
@@ -14,4 +15,8 @@
   background-repeat: no-repeat;
   background-position: center;
   background-blend-mode: normal;
+
+  @include mq('small') {
+    padding-top: 30px;
+  }
 }

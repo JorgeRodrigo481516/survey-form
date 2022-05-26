@@ -1,0 +1,9 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the description component.
+// -----------------------------------------------------------------------------
+
+#description {
+  font-size: clamp(1.2rem, 3.5vw, 1.8rem);
+  font-weight: 200;
+  font-style: italic;
+}
