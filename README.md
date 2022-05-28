@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" id="top">
   <a href="https://github.com/JorgeRodrigo481516/survey-form/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/JorgeRodrigo481516/survey-form?style=social">
   </a>
@@ -99,7 +99,7 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 Clone o projeto
 
 ```bash
-  git clone https://github.com/JorgeRodrigo481516/survey-form
+  git clone https://github.com/JorgeRodrigo481516/survey-form.git
 ```
 
 Entre no diretório do projeto
@@ -134,7 +134,6 @@ Inicie o servidor
 <br>
 <h2 id="licenca"> 📝 Licença </h2>
 
-// https://choosealicense.com/licenses/mit/
-
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
+<br><br>[🔝 Voltar ao topo](#top) <br>
