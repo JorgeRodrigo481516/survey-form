@@ -20,20 +20,21 @@ $headings-color: color('white') !default;
 $button-color: color('green') !default;
 
 $light-grey: hsl(0, 0%, 80%) !default;
-$mid-grey: hsl(0, 0%, 60%) !default;
-$dark-grey: color('grey') !default;
+$mid-grey: color('grey') !default;
+$dark-grey: color('grey-200') !default;
 
 $colors: (
   'white': hsl(0, 0%, 95%),
-  'grey': hsl(210, 9%, 31%),
+  'grey': hsl(210, 9%, 51%),
+  'grey-200': hsla(240, 30%, 15%, 0.8),
   'green': hsl(143, 52%, 45%),
-  'purple': hsla(240, 46%, 42%, 0.8)
+  'purple': hsla(240, 46%, 42%, 0.8),
 ) !default;
 
 
 // -----------------------------------------------------------------------------
 
-$max-width: 1080px !default;
+$max-width: 760px !default;
 
 $breakpoints: (
   'min': 395px,

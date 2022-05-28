@@ -1,0 +1,9 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the form group label component.
+// -----------------------------------------------------------------------------
+
+.form-group__label {
+  display: block;
+  margin-block-end: 8px;
+  font-size: clamp(1.4rem, 4vw, 1.8rem);
+}

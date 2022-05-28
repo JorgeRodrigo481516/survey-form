@@ -1,0 +1,11 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the Survey Form of the site/application.
+// -----------------------------------------------------------------------------
+
+.survey-form {
+  width: min(55vw, 760px);
+  border-radius: 4px;
+  margin-inline: auto;
+  padding: 40px;
+  background-color: $dark-grey;
+}
