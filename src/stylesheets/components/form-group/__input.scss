@@ -15,4 +15,9 @@
   &::placeholder {
     color: $mid-grey;
   }
+
+  &--textarea {
+    @extend .form-group__input;
+    height: 120px;
+  }
 }
