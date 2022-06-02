@@ -128,6 +128,6 @@ Inicie o servidor
 <br>
 <h2 id="licenca"> 📝 Licença </h2>
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
 <br><br>[🔝 Voltar ao topo](#top) <br>
