@@ -11,7 +11,7 @@
   <a href="#">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/JorgeRodrigo481516/survey-form">
   </a>
-  <a href="#">
+  <a href="./LICENSE.md">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
   </a>
   <a href="https://www.linkedin.com/in/jorge-rodrigo-rosario-de-almeida">
