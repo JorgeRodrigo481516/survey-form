@@ -21,22 +21,18 @@
 
 
 <p align="center">
-  <img width="900px" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" alt="Survey Form website"
+  <img width="900px" src="https://user-images.githubusercontent.com/79382459/165197949-467ba82c-133f-4539-b4c2-fa75d7927d54.png" alt="Survey Form website"
 </p>
 
-	
-(Insira um gif ou um link de alguma demonstração)
 
 	
-<a href="#"><h1 id="sobre"> Survey Form 🔗 </h1></a>
- 
-(Uma breve descrição sobre o que esse projeto faz e para quem ele é)
+<a href="https://jorgerodrigo481516.github.io/survey-form"><h1 id="sobre"> Survey Form 🔗 </h1></a>
 
-Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae iusto explicabo eius nam earum excepturi, perspiciatis autem iste commodi labore sapiente, debitis facilis unde exercitationem porro alias, harum laboriosam! Esse, dicta cupiditate.
+Projeto de estudo retirado do curso [freecodecamp](https://www.freecodecamp.org/learn) na seção de Responsive Web Design.
 
 	
 <br>
-<p align="center" color="green"><strong> 🚧 <em>Survey Form</em> 🚀 em desenvolvimento  🚧 </strong></p>
+<p align="center" color="green"><strong> ✨ <em>Survey Form</em> 💙 desenvolvido com sucesso  ✨ </strong></p>
 
 
 <p align="center">
@@ -46,8 +42,6 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
  <a href="#tarefas">Tarefas</a> • 
  <a href="#instalacao">Rodando</a> • 
  <a href="#contribuicao">Contribuicao</a> • 
- <a href="#faq">FAQ</a> • 
- <a href="#feedback">Feedback</a> •
  <a href="#licenca">Licença</a>
 </p>
 
@@ -61,11 +55,11 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 <br>
 <h2 id="recursos"> 🧰 Recursos </h2>
 
-🔶 <strong><em> Multiplataforma </em></strong> - PC, notebook, tablet, e smartphone.
+🔷 <strong><em> Multiplataforma </em></strong> - PC, notebook, tablet, e smartphone.
+
+🔷 <strong><em> Compatibilidade </em></strong> - Chrome, Brave, Microsoft Edge, Internet Explorer, Firefox, e outros.
 
 🔸 <strong><em> Interatividade </em></strong> - Botões, links, e inputs.
-
-🔸 <strong><em> Compatibilidade </em></strong> - Chrome, Brave, Microsoft Edge, Internet Explorer, Firefox, e outros.
 
 
 <br>
@@ -76,13 +70,13 @@ Projetos de portfólio/estudo.. Lorem ipsum dolor sit amet consectetur adipisici
 <br>
 <h2 id="tarefas"> 📑 Tarefas </h2>
 
-⚠️ <strong> Estruturar o HTML do website </strong>
+✔️ <strong> Estruturar o HTML do website </strong>
 
-⚠️ <strong> Estilizar os componentes e o layout da página </strong>
+✔️ <strong> Estilizar os componentes e o layout da página </strong>
+
+✔️ <strong> Adicionar responsividade </strong>
 
 ⭕ <strong> Atribuir interatividade aos componentes </strong>
-
-⭕ <strong> Adicionar responsividade </strong>
 
 ⭕ <strong> Realizar aprimoramentos no design </strong>
 
